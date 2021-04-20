@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.diasoft.digitalq:dslogging:1.05.17-21040101">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/digitalq/dslogging/1.05.17-21040101/dslogging-1.05.17-21040101.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/digitalq/dslogging/1.05.17-21040101/dslogging-1.05.17-21040101-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/digitalq/dslogging/1.05.17-21040101/dslogging-1.05.17-21040101-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

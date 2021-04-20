@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c81a0fb-22a3-485a-b331-51c28cc64c7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rLC57llRdAhIEL1Akt2cm5LVDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="demo-1.00.00.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/demo/service/target/demo-1.00.00.jar" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demo" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.demo-1.00.00.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c81a0fb-22a3-485a-b331-51c28cc64c7c" name="Default Changelist" comment="" />
+      <created>1618745796492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618745796492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618843617980">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="223" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1538.900@0.0.1538.900" timestamp="1618843617980" />
+    <state x="478" y="69" key="#demo-1.00.00.jar" timestamp="1618842084273">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="478" y="69" key="#demo-1.00.00.jar/0.0.1538.900@0.0.1538.900" timestamp="1618842084273" />
+    <state x="549" y="204" key="FileChooserDialogImpl" timestamp="1618942908306">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="549" y="204" key="FileChooserDialogImpl/0.0.1538.900@0.0.1538.900" timestamp="1618942908306" />
+    <state width="1495" height="236" key="GridCell.Tab.0.bottom" timestamp="1618843670488">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="236" key="GridCell.Tab.0.bottom/0.0.1538.900@0.0.1538.900" timestamp="1618843670488" />
+    <state width="1495" height="236" key="GridCell.Tab.0.center" timestamp="1618843670488">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="236" key="GridCell.Tab.0.center/0.0.1538.900@0.0.1538.900" timestamp="1618843670488" />
+    <state width="1495" height="236" key="GridCell.Tab.0.left" timestamp="1618843670488">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="236" key="GridCell.Tab.0.left/0.0.1538.900@0.0.1538.900" timestamp="1618843670488" />
+    <state width="1495" height="236" key="GridCell.Tab.0.right" timestamp="1618843670488">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="236" key="GridCell.Tab.0.right/0.0.1538.900@0.0.1538.900" timestamp="1618843670488" />
+  </component>
+</project>

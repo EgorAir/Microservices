@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.diasoft.micro.mdp.lib:mdpribbon:9.04.04-21020901">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/mdp/lib/mdpribbon/9.04.04-21020901/mdpribbon-9.04.04-21020901.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/mdp/lib/mdpribbon/9.04.04-21020901/mdpribbon-9.04.04-21020901-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/mdp/lib/mdpribbon/9.04.04-21020901/mdpribbon-9.04.04-21020901-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,59 @@
+databaseChangeLog:
+  - logicalFilePath: changelog_h2.yaml
+  - changeSet:
+      id: 1
+      author: egoryunova
+      changes:
+        - createTable:
+            tableName: student
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: first_name
+                  type: varchar(255)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: second_name
+                  type: varchar(255)
+                  constraints:
+                    nullable: false
+
+  - changeSet:
+      id: 2
+      author: egoryunova
+      comment: "insert"
+      changes:
+        - insert:
+            tableName: student
+            columns:
+              - column:
+                  name: id
+                  value: 1
+              - column:
+                  name: first_name
+                  value: "Ekaterina"
+              - column:
+                  name: second_name
+                  value: "Goryunova"
+        - insert:
+            tableName: student
+            columns:
+              - column:
+                  name: id
+                  value: 2
+              - column:
+                  name: first_name
+                  value: "1"
+              - column:
+                  name: second_name
+                  value: "2"
+      rollback:
+        - delete:
+            tableName: student

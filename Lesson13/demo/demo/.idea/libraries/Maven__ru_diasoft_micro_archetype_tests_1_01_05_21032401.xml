@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.diasoft.micro:archetype-tests:1.01.05-21032401">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/archetype-tests/1.01.05-21032401/archetype-tests-1.01.05-21032401.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/archetype-tests/1.01.05-21032401/archetype-tests-1.01.05-21032401-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/archetype-tests/1.01.05-21032401/archetype-tests-1.01.05-21032401-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

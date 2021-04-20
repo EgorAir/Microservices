@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.diasoft.flextera:dstrace:4.01.01-21032201">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/flextera/dstrace/4.01.01-21032201/dstrace-4.01.01-21032201.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/flextera/dstrace/4.01.01-21032201/dstrace-4.01.01-21032201-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/flextera/dstrace/4.01.01-21032201/dstrace-4.01.01-21032201-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

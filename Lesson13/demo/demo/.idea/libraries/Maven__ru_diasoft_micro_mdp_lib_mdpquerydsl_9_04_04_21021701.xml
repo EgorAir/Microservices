@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.diasoft.micro.mdp.lib:mdpquerydsl:9.04.04-21021701">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/mdp/lib/mdpquerydsl/9.04.04-21021701/mdpquerydsl-9.04.04-21021701.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/mdp/lib/mdpquerydsl/9.04.04-21021701/mdpquerydsl-9.04.04-21021701-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/diasoft/micro/mdp/lib/mdpquerydsl/9.04.04-21021701/mdpquerydsl-9.04.04-21021701-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
